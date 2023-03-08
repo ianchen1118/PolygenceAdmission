@@ -1,0 +1,16 @@
+G04 DesignSpark PCB Gerber Version 10.0 Build 5299*
+G04 #@! TF.Part,Single*
+%FSLAX35Y35*%
+%MOIN*%
+%ADD27C,0.01200*%
+G04 #@! TD.AperFunction*
+X0Y0D02*
+D02*
+D27*
+X600Y600D02*
+X254143D01*
+Y233671D01*
+X600D01*
+Y600D01*
+X0Y0D02*
+M02*

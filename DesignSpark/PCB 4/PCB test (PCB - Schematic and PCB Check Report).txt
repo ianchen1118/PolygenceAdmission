@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, November 21, 2022
+Project Path:       C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\PCB 4\PCB 4.prj
+Design Path:        C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\PCB 4\PCB test.pcb
+Design Title:       
+Created:            2022/11/7 下午 06:55:15
+Last Saved:         2022/11/21 下午 07:13:37
+Editing Time:       488 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\PCB 4\Sch_From_To.sch" with PCB "C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\PCB 4\PCB test.pcb"
+=======================================================================================================================================================================================
+
+
+End Of Report.

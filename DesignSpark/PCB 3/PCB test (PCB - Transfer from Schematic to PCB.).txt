@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Monday, November 07, 2022
+Design Path:        C:\Users\ian11\OneDrive\®à­±\Circuit Board\DesignSpark\PCB 3\PCB test.pcb
+Design Title:       
+Created:            2022/11/7 ¤U¤È 06:55:15
+Last Saved:         2022/11/7 ¤U¤È 06:55:48
+Editing Time:       0 min
+Units:              mm (precision 1)
+
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

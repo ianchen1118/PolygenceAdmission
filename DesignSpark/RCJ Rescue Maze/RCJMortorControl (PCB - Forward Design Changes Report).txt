@@ -1,0 +1,41 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Sunday, March 05, 2023
+Design Path:        C:\Users\ian11\OneDrive\®à­±\Owl Lab\DesignSpark\RCJ Rescue Maze\RCJMortorControl.pcb
+Design Title:       
+Created:            2023/3/5 ¤U¤È 05:02:45
+Last Saved:         2023/3/5 ¤U¤È 06:52:34
+Editing Time:       109 min
+Units:              mm (precision 1)
+
+Added net class "Power".
+Added net class "Ground".
+
+Added net "Ground".
+Added net "9V_Power".
+Added net "5V_Power".
+
+Connected pin "IC2.3" to net "Ground".
+Connected pin "IC2.4" to net "Ground".
+Connected pin "IC2.9" to net "Ground".
+Connected pin "IC2.10" to net "Ground".
+Connected pin "IC2.13" to net "9V_Power".
+Connected pin "IC2.14" to net "9V_Power".
+Connected pin "IC2.18" to net "Ground".
+Connected pin "IC2.20" to net "5V_Power".
+Connected pin "IC2.24" to net "9V_Power".
+Connected pin "U1.1" to net "Ground".
+Connected pin "U1.44" to net "Ground".
+Connected pin "U1.24" to net "Ground".
+Connected pin "U1.2" to net "Ground".
+Connected pin "U1.3" to net "5V_Power".
+Connected pin "U6.1" to net "Ground".
+Connected pin "U6.3" to net "5V_Power".
+Connected pin "U6.5" to net "Ground".
+Connected pin "U6.6" to net "9V_Power".
+Connected pin "J1.1" to net "9V_Power".
+Connected pin "J1.2" to net "Ground".
+
+
+End Of Report.
