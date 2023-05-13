@@ -1,0 +1,107 @@
+Update Components Report
+------------------------
+
+Report Written:     Sunday, March 26, 2023
+Project Path:       C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\RCJ Rescue Maze\RCJMotor\RCJMortorControl.prj
+Design Path:        C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\RCJ Rescue Maze\RCJMotor\RCJMortorControl.pcb
+Design Title:       
+Created:            2023/3/5 下午 05:02:45
+Last Saved:         2023/3/26 下午 06:43:28
+Editing Time:       8932 min
+Units:              mm (precision 1)
+
+
+Library Files:
+==============
+
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Sample\Sample.cml
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Default\DesignSpark.cml
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Default\ltspice.cml
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Default\XSpice.cml
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\schema\discrete.cml
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\schema\schema.cml
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.cml
+C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\User\User.cml
+
+Selected items to be updated:
+=============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Additional items to be updated:
+===============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Selected items not to be updated  (Same version as library)
+===========================================================
+
+
+Components:
+===========
+
+1812L110/24DR (FUSM4632X200N)
+Capacitor (0402)
+Capacitor (0805)
+Capacitor_Pol (DSCV)
+ESP32-S3-DEVKITC-1-N8R2 (XCVR_ESP32-S3-DEVKITC-1-N8R2)
+Motor3 (USER)
+PJ-002A (CUI_PJ-002A)
+Power Module (USER)
+Resistor (SM)
+Sample_Logo2 (USER)
+Switch_2.54 (USER)
+TB6612FNG (SSOP24)
+
+Symbols:
+========
+
+0402                         C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Default\DesignSpark.psl
+0805                         C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Default\DesignSpark.psl
+CAPP3V                       C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Default\DesignSpark.psl
+CUI_PJ-002A                  C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.psl
+FUSM4632X200N                C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.psl
+Motor3                       C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.psl
+Power Module                 C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.psl
+Sample_Logo2                 C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Sample\Sample.psl
+SSOP24                       C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.psl
+Switch_2.54                  C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.psl
+XCVR_ESP32-S3-DEVKITC-1-N8R2 C:\Users\Public\Documents\DesignSpark PCB 10.0\Library\Arduino\Arduino.psl
+
+
+
+Update Components Summary
+=========================
+
+Updating all components.
+Keep component values
+Keep component value positions
+(Remove pad style exceptions on updated components)
+	Selected for update:			  12  Components
+						  11  Symbols
+	Selected items to be updated:		   0  Components
+						   0  Symbols
+	Additional items to be updated:		   0  Components
+						   0  Symbols
+	Selected items NOT to be updated:	  12  Components
+	  (Same version as library)		  11  Symbols
+
+End Of Report.

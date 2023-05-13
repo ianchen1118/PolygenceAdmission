@@ -1,0 +1,22 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Sunday, March 26, 2023
+Project Path:       C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\RCJ Rescue Maze\RCJMotor\RCJMortorControl.prj
+Design Path:        C:\Users\ian11\OneDrive\桌面\Owl Lab\DesignSpark\RCJ Rescue Maze\RCJMotor\RCJMortorControl.pcb
+Design Title:       
+Created:            2023/3/5 下午 05:02:45
+Last Saved:         2023/3/26 下午 06:43:28
+Editing Time:       8929 min
+Units:              mm (precision 1)
+
+Disconnected pin "U2.2" from net "Ground".
+Disconnected pin "F1.2" from net "Ground".
+
+Added net "N0215".
+
+Connected pin "U2.2" to net "N0215".
+Connected pin "F1.2" to net "N0215".
+
+
+End Of Report.

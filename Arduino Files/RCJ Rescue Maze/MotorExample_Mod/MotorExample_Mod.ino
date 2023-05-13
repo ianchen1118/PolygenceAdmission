@@ -4,25 +4,25 @@
 
 /*             Motor related              */
 #if (ESP32)
-#define AI1 40                //Motor A I1
-#define AI2 41                //Motor A I2
-#define PwmOutputA 42                //Motor A PWM
-#define InterruptA1 4                //Motor A Interrupt1
+#define AI1 11                //Motor A I1
+#define AI2 12                //Motor A I2
+#define PwmOutputA 14                //Motor A PWM
+#define InterruptA1 0                //Motor A Interrupt1
 //#define InterruptA2                //Motor A Interrupt2
-#define BI1 37                //Motor B I1
-#define BI2 38                //Motor B I2
-#define PwmOutputB 39                //Motor B PWM
-#define InterruptB1 5                //Motor B Interrupt1
+#define BI1 8                //Motor B I1
+#define BI2 10                //Motor B I2
+#define PwmOutputB 13                //Motor B PWM
+#define InterruptB1 0                //Motor B Interrupt1
 //#define InterruptB2                //Motor B Interrupt2
 #define XI1 45                //Motor X I1
-#define XI2 36                 //Motor X I2
-#define PwmOutputX 35                //Motor X PWM
-#define InterruptX1 6                //Motor X Interrupt1
+#define XI2 48                 //Motor X I2
+#define PwmOutputX 47                //Motor X PWM
+#define InterruptX1 0                //Motor X Interrupt1
 //#define InterruptX2                //Motor X Interrupt2 
-#define YI1 21                //Motor Y I1
-#define YI2 47                //Motor Y I2
-#define PwmOutputY 48                //Motor Y PWM
-#define InterruptY1 7                //Motor Y Interrupt1
+#define YI1 4                //Motor Y I1
+#define YI2 5                //Motor Y I2
+#define PwmOutputY 15                //Motor Y PWM
+#define InterruptY1 0                //Motor Y Interrupt1
 //#define InterruptY2                //Motor Y Interrupt2
 
 #else
